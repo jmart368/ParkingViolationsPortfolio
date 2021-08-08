@@ -69,6 +69,8 @@ Closing Remarks
 ------------------------
 Our next step would be to implement several prediction models on the future outlook of parking violations for the city of Losa Angeles. This would be an important insight for city planners and city officials in terms of understanding on how to plan and also regulating parking in the city of Los Angeles.
 
+
+
 References
 ------------------------
 Inoue, Yukana. “Why L.a. Public Transit Is the Worst, and What We Can Do to Improve It.” Los Angeles Loyolan, 9 Mar. 2021, www.laloyolan.com/opinion/why-l-a-public-transit-is-the-worst-and-what-we-can-do-to-improve/article_cc42a382-ddb5-5ae8-8fc6-8af2282689fd.html. 
