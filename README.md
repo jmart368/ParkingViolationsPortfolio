@@ -1,4 +1,4 @@
-# Parking Violations Portfolio
+# Parking Violations Project - Examining the city of LA's parking Violations for Chrysler vehicles
 
 ![Snip20210808_1](https://user-images.githubusercontent.com/24769002/128640756-eebc0094-fc51-4f07-9edc-af04df99cc40.png)
 
