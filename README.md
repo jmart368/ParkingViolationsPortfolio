@@ -67,7 +67,7 @@ Finally, the above graph gives us an indication on how many parking tickets per 
 
 Closing Remarks
 ------------------------
-Our next step would be to implement several prediction models on the future outlook of parking violations for the city of Losa Angeles. This would be an important insight for city planners and city officials in terms of understanding on how to plan and also regulating parking in the city of Los Angeles.
+Our next step would be to implement several prediction models on the future outlook of parking violations for the city of Los Angeles. This would be an important insight for city planners and city officials in terms of understanding on how to plan and also regulating parking in the city of Los Angeles.
 
 
 
