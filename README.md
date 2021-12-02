@@ -12,7 +12,7 @@ This project is useful in helping cities determine why parking violations were g
 Datasets
 ------------------------
 For our dataset we our only given the following:
-  * parkingLA2017.csv - This dataset details all the parking violations transactions having 1,048,575 and 21 columns.
+  * parkingLA2017.csv - This dataset details all the parking violations transactions having 1,048,575 rows and 21 columns.
 
 Feature Definitions
 ------------------------
